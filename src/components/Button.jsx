@@ -6,7 +6,7 @@ const Button = ({ styles, children }) => (
       ${styles}
     `}
   >
-    {children}
+    {children ? children : "Get started"}
   </button>
 );
 
