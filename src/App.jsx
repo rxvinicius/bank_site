@@ -1,15 +1,11 @@
-import React from "react";
 import styles from "./style";
 import {
   Billing,
   Business,
-  Button,
   CardDeal,
   Clients,
   CTA,
-  FeedbackCard,
   Footer,
-  GetStarted,
   Hero,
   Navbar,
   Stats,
