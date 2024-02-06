@@ -4,7 +4,7 @@ export { default as binance } from "./binance.png";
 export { default as card } from "./card.png";
 export { default as coinbase } from "./coinbase.png";
 export { default as dropbox } from "./dropbox.png";
-export { default as logo } from "./logo.svg";
+export { default as logo } from "./logo.png";
 export { default as quotes } from "./quotes.svg";
 export { default as robot } from "./robot.png";
 export { default as send } from "./Send.svg";
