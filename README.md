@@ -1,5 +1,5 @@
 <div align='center'>
-  <img style="width:30%" src='src/assets/logo.svg'/>
+  <img style="width:30%" src='src/assets/logo.png'/>
 </div>
 
 <h2>About the project</h2>
