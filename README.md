@@ -22,5 +22,5 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-  <img src='https://github.com/rxvinicius/user-images/blob/3ff162c9b338ac0990456de37f5ca459c94aacb6/vinibank.png'/>
+  <img src='src/assets/preview.png'/>
 </div>
